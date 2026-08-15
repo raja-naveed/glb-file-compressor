@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+samples/*_compressed.glb
+samples/*_python.glb
+samples/*.interim.glb
+.DS_Store
+Thumbs.db
